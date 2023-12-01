@@ -1,4 +1,4 @@
-![Web Developer]([https://pbs.twimg.com/profile_banners/1435890363038765056/1631803049/1080x360](https://i.ibb.co/93V06pH/Dallas-Banner.jpg))
+![Web Developer]([https://i.ibb.co/93V06pH/Dallas-Banner.jpg])
 ### Hi there 👋, A A Labonya
 #### Web Developer
 
