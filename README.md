@@ -1,10 +1,10 @@
-![Web Developer](https://pbs.twimg.com/profile_banners/1435890363038765056/1631803049/1080x360)
+![Web Developer]([https://pbs.twimg.com/profile_banners/1435890363038765056/1631803049/1080x360](https://i.ibb.co/93V06pH/Dallas-Banner.jpg))
 ### Hi there 👋, A A Labonya
 #### Web Developer
 
-An enthusiastic learner, a business graduate in Finance but a passionate Coder (programmer) by choice.  Dedicated front end web developer skilled in HTML/HTML5, CSS/CSS3/, JavaScript and Bootstrap. Besides I do work as Virtual Assistant for Communication, Data Entry, Data Research, Copy-Paste, B2B Lead Generation, LinkedIn Lead Generation, PDF to MS-Word/Excel and Social Media Management. Client satisfaction is my first priority. I always look forward to learn new things that boosts my skill as well as confidence. I am self motivated, hard worker and good listener, versatile and fit in solo or team. In past time I go for travelling and do listen music.
+An enthusiastic learner, passionate coder (web developer) by choice. Dedicated front end web developer skilled in JavaScript, MongoDB, Express.js, React.js, Next.js, Node.js, Firebase, JWT, Tailwind CSS and Bootstrap, HTML/HTML5, CSS/CSS3. Besides I do work as VA for Communication, data entry, data research, B2B Lead Generation, LinkedIn Lead Generation, and Social Media Management. Client satisfaction is my priority. I always look forward to learning new things that boost my skill as well as confidence. I am self-motivated, hard worker and good listener, versatile and fit in solo or team. In my pastime I go for travelling and do listen to music.
 
-Skills: HTML/HTML5, CSS/CSS3/, JavaScript and Bootstrap, MS Office
+Skills: MongoDB, Express.js, React, Next.js, Node.js, Firebase
 
 - 🔭 I’m currently working on Practicing on my own project 
 - 🌱 I’m currently learning JavaScript 
