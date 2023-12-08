@@ -18,7 +18,7 @@ An enthusiastic learner, passionate coder (web developer) by choice. Dedicated M
 <p align="left">
 <a href="https://www.linkedin.com/in/aalabonya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AALabonya" height="30" width="40" /></a>
 <a href="https://www.facebook.com/labonyamoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="AALabonya" height="30" width="40" /></a>
-<a href="https://www.facebook.com/labonyamoni" target="blank"><img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' alt="AALabonya" height="30" width="40" /></a>
+<a href="https://twitter.com/AALabonya" target="blank"><img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' alt="AALabonya" height="30" width="40" /></a>
 
 </p>
 
