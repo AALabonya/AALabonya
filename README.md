@@ -21,8 +21,7 @@ Skills: MongoDB, Express.js, React, Next.js, Node.js, Firebase
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AALabonya&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AALabonya)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AALabonya)  
 
-![Profile views](https://gpvc.arturio.dev/AALabonya)  
+  
