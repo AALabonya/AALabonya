@@ -57,59 +57,6 @@ An enthusiastic learner, passionate coder (web developer) by choice. Dedicated M
 
 <br />
 
-# My Project
-<br />
-
- **Bride&Grooms ( Matrimony Website )**
-
-  [Bride&Grooms live link](https://transcendent-stardust-3e6ba6.netlify.app/)
-
- Admin email: aalabonya@gmail.com <br/>
- Admin password: Aa!123456
-
-<ul>
-  <li>Implement dashboard features and use the admin verify system in client sites and also server-side through JWT token.</li>
-  <li>Implement payment methods by using React Stripe</li>
-  <li>Implement tanstack query in all the data fetching functionality.</li>
-  <li>Three role of Bride&Grooms - Admin, user, Spectator.</li>
-
-</ul>
-
-<br />
-<br />
-
- **Foody ( Community food sharing platform )**
-
-
-[Foody live link](https://ubiquitous-macaron-fb7f2b.netlify.app/)
-
-<ul>
-  <li>I have implemented the following packages like Lottie-react, Framer Motion, React Helmet in this project.</li>
-  <li>Implement React-hook-form.</li>
-  <li>Authentication are applied by using firebase. Using vercel for server side deployment.</li>
-
-</ul>
-
-<br />
-<br />
-
- **Fashion Memoir( Fashion & Apparel Online Shopping website )**
-
-[Fashion Memoir live link](https://6533c1cd598cac66b07894a4--sweet-manatee-ab7fdc.netlify.app/)
-
-
-
-<ul>
-  <li>The website is responsive.</li>
-
- <li>Added dark and light mood function.
-</li>
-  <li>added dynamic product details where users can see different types of products.
-</li>
-</ul>
-
-
-<br />
 
 
  
