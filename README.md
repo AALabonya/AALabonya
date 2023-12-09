@@ -39,12 +39,10 @@ An enthusiastic learner, passionate coder (web developer) by choice. Dedicated M
 ##  💻 Technologies that I know
 
 <br/>
-<br/>
-<br/>
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,mongodb,express,tailwind)](https://skillicons.dev)<br/>
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,materialui,html,css,firebase)](https://skillicons.dev)<br/>
-[![My Skills](https://skillicons.dev/icons?i=firebase,vercel,figma)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=react,js,mongodb,express,tailwind,firebase,)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,materialui,html,css,vercel,figma)](https://skillicons.dev)<br/>
+<br/>
 
  
 <br/>
