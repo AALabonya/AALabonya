@@ -10,7 +10,7 @@ An enthusiastic learner, passionate coder (web developer) by choice. Dedicated M
 
 ##  Current Stats
 
-<p align="center">
+<p align="left">
   <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user==AALabonya&theme=gruvbox-duo" />
 </p>
 
