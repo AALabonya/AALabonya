@@ -26,7 +26,7 @@ An enthusiastic learner, passionate coder (web developer) by choice. Dedicated M
  - 📫 How to reach me: 1aklimakter@gmail.com 
 
 
-<h3 align="left">Connect me :</h3><br/>
+<h3 align="left">Connect me </h3><br/>
 <p align="left">
 <a href="https://www.linkedin.com/in/aalabonya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AALabonya" height="30" width="40" /></a>
 <a href="https://www.facebook.com/labonyamoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="AALabonya" height="30" width="40" /></a>
@@ -37,14 +37,19 @@ An enthusiastic learner, passionate coder (web developer) by choice. Dedicated M
 <br/>
 ## 💻 Technologies that I know:
 <br/>
+<br/>
+<br/>
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,mongodb,express,tailwind)](https://skillicons.dev)<br/>
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,materialui,html,css,firebase)](https://skillicons.dev)<br/>
 [![My Skills](https://skillicons.dev/icons?i=firebase,vercel,figma)](https://skillicons.dev)<br/>
 
  
-
+<br/>
+<br/>
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<br/>
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AALabonya)](https://github.com/anuraghazra/github-readme-stats)
 
