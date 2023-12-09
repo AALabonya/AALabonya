@@ -35,7 +35,9 @@ An enthusiastic learner, passionate coder (web developer) by choice. Dedicated M
 </p>
 
 <br/>
-## 💻 Technologies that I know:
+
+##  💻 Technologies that I know
+
 <br/>
 <br/>
 <br/>
