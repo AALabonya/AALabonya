@@ -62,7 +62,7 @@ An enthusiastic learner, passionate coder (web developer) by choice. Dedicated M
 
  **Bride&Grooms ( Matrimony Website )**
 
-  [Bride&Grooms live link](https://goexplor-e8ca8.web.app/)
+  [Bride&Grooms live link](https://transcendent-stardust-3e6ba6.netlify.app/)
 
  Admin email: aalabonya@gmail.com <br/>
  Admin password: Aa!123456
