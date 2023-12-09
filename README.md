@@ -17,7 +17,7 @@ An enthusiastic learner, passionate coder (web developer) by choice. Dedicated M
 <br/>
 <br/>
 
- 🔭 I’m working - In w3asolution.<br/>
+ 🔭 I’m working at w3asolution.<br/>
 👯 I’m looking to collaborate on github <br/>
   💬 Ask me about Web Design or Development <br/>
  📄 All of my project and experience here: [https://ephemeral-marshmallow-e039bd.netlify.app/
