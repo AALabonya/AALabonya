@@ -16,14 +16,14 @@ An enthusiastic learner, passionate coder (web developer) by choice. Dedicated M
 
 <br/>
 <br/>
- - 🔭 I’m working - In w3asolution.
 
- - 👯 I’m looking to collaborate on github 
- - 💬 Ask me about Web Design or Development 
- - 📄 All of my project and experience here: [https://ephemeral-marshmallow-e039bd.netlify.app/
+ 🔭 I’m working - In w3asolution.<br/>
+👯 I’m looking to collaborate on github <br/>
+  💬 Ask me about Web Design or Development <br/>
+ 📄 All of my project and experience here: [https://ephemeral-marshmallow-e039bd.netlify.app/
 ](https://ephemeral-marshmallow-e039bd.netlify.app/
-)
- - 📫 How to reach me: 1aklimakter@gmail.com 
+)<br/>
+ 📫 How to reach me: 1aklimakter@gmail.com 
 
 
 <h3 align="left">Connect me </h3><br/>
