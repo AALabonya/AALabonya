@@ -96,7 +96,6 @@ When I'm not immersed in code, you can find me exploring new places or losing my
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AALabonya&show_icons=true&count_private=true&theme=tokyonight)
 
-
 <br />
 
 
