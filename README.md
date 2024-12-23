@@ -36,7 +36,7 @@ When I'm not immersed in code, you can find me exploring new places or losing my
 
 <h3 align="left">📞 Connect me </h3><br/>
 
-<p align="center" style="display: flex; gap: 10px; justify-content: center;">
+<p align="center" style="display: flex; gap: 10px; justify-content: center border-radius: 10px; overflow: hidden;">
   <a href="https://www.linkedin.com/in/aalabonya" target="_blank" style="display: inline-block; border-radius: 10px; overflow: hidden;">
     <img height="40" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -49,7 +49,7 @@ When I'm not immersed in code, you can find me exploring new places or losing my
   <a href="https://twitter.com/AALabonya" target="_blank">
     <img height="40" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="mailto:your_email@example.com" target="_blank">
+  <a href="mailto:1aklimakter@gmail.com" target="_blank">
     <img height="40" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
