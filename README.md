@@ -1,8 +1,10 @@
 <h1 align="center">Hi there 👋, A A Labonya</h1>
+
+![Web Developer](https://i.ibb.co.com/8bSR7mP/fullstack.png)
 <!-- <h3 align="center">MERN stack developer</h3>
 
 <!-- ![Web Developer](https://i.ibb.co/93V06pH/Dallas-Banner.jpg) --> 
-
+<!-- https://i.ibb.co.com/8bSR7mP/fullstack.png -->
 ## About Me 
 
 An enthusiastic learner, Passionate Full Stack Developer seeking to build innovative web applications. With a strong foundation in JavaScript, TypeScript, DBMS, SQL, PostgreSQL, Prisma, MongoDB, Mongoose, Express.js, React.js, Next.js, Node.js, Firebase, JWT, Tailwind CSS, Bootstrap, I'm dedicated to crafting user-friendly and high-performance experiences.
