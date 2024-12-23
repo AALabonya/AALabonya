@@ -53,17 +53,14 @@ When I'm not immersed in code, you can find me exploring new places or losing my
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="20" width="20" />
     Twitter
   </a>
-
-</p>
-
 <style>
   a:hover {
     transform: scale(1.1);
     background-color: #333333; 
   }
 </style>
-
 </p>
+
 
 <br/>
 
