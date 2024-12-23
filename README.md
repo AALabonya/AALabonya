@@ -54,10 +54,10 @@ When I'm not immersed in code, you can find me exploring new places or losing my
 
 ##  📝Current Stats
 
-<!-- <p align="left">
+<p align="left">
   <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=AALabonya&theme=tokyonight" />
-</p> -->
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=AALabonya&theme=tokyonight&hide_border=true" />
+</p>
+ <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=AALabonya&background=0D1117&sideLabels=2F81F7&theme=dark&stroke=0D1117&fire=229A58&currStreakNum=229A58&ring=229A58&currStreakLabel=229A58&show_icons=true&hide_border=true&sideNums=2F81F7" />
 
 <br/>
 
