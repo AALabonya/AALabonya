@@ -20,11 +20,13 @@ When I'm not immersed in code, you can find me exploring new places or losing my
 ##  📝Current Stats
 
 <p align="left">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user==AALabonya&theme=dracula" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user==AALabonya&theme=tokyonight" />
 </p>
 
 <br/>
 <br/>
+
+## 🕹️ Current Overview
 
  🔭 I’m working at w3asolution.<br/>
 👯 I’m looking to collaborate on github <br/>
@@ -36,23 +38,24 @@ When I'm not immersed in code, you can find me exploring new places or losing my
 
 <h3 align="left">📞 Connect me </h3><br/>
 
-<p align="center" style="display: flex; gap: 10px; justify-content: center border-radius: 10px; overflow: hidden;">
-  <a href="https://www.linkedin.com/in/aalabonya" target="_blank" style="display: inline-block; border-radius: 10px; overflow: hidden;">
-    <img height="40" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<p align="center" style="display: flex; gap: 10px; justify-content: center; border-radius: 10px; overflow: hidden;">
+  <a href="https://www.linkedin.com/in/aalabonya" target="_blank">
+    <img height="40" src="https://img.shields.io/badge/LinkedIn-1e293b?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
   </a>
   <a href="https://www.facebook.com/labonyamoni" target="_blank">
-    <img height="40" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+    <img height="40" src="https://img.shields.io/badge/Facebook-1e293b?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook">
   </a>
   <a href="https://www.instagram.com/labonyamoni/" target="_blank">
-    <img height="40" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img height="40" src="https://img.shields.io/badge/Instagram-1e293b?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram">
   </a>
   <a href="https://twitter.com/AALabonya" target="_blank">
-    <img height="40" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    <img height="40" src="https://img.shields.io/badge/Twitter-1e293b?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter">
   </a>
   <a href="mailto:1aklimakter@gmail.com" target="_blank">
-    <img height="40" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img height="40" src="https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email">
   </a>
 </p>
+
 
 
 
@@ -78,9 +81,16 @@ When I'm not immersed in code, you can find me exploring new places or losing my
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AALabonya)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AALabonya&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AALabonya&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AALabonya&show_icons=true&count_private=true&theme=tokyonight)
+
+
+
+## 👀 Explore My GitHub Summary
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AALabonya&theme=tokyonight" alt="Profile details badge"/>
+</p>
 
 <br />
 
