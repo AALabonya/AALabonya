@@ -2,6 +2,23 @@
 
 ![Web Developer](https://i.ibb.co.com/bNW33Wp/github-Image.png)
 
+<p align="center" style="display: flex; gap: 10px; justify-content: center; border-radius: 10px; overflow: hidden;">
+  <a href="https://www.linkedin.com/in/aalabonya" target="_blank">
+    <img height="40" src="https://img.shields.io/badge/LinkedIn-1e293b?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
+  </a>
+  <a href="https://www.facebook.com/labonyamoni" target="_blank">
+    <img height="40" src="https://img.shields.io/badge/Facebook-1e293b?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook">
+  </a>
+  <a href="https://www.instagram.com/labonyamoni/" target="_blank">
+    <img height="40" src="https://img.shields.io/badge/Instagram-1e293b?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram">
+  </a>
+  <a href="https://twitter.com/AALabonya" target="_blank">
+    <img height="40" src="https://img.shields.io/badge/Twitter-1e293b?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter">
+  </a>
+  <a href="mailto:1aklimakter@gmail.com" target="_blank">
+    <img height="40" src="https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email">
+  </a>
+</p>
 
 <!-- <h3 align="center">MERN stack developer</h3>
 
@@ -9,7 +26,7 @@
 <!-- https://i.ibb.co.com/8bSR7mP/fullstack.png -->
 ## About Me 
 
-An enthusiastic learner, Passionate Full Stack Developer seeking to build innovative web applications. With a strong foundation in JavaScript, TypeScript, DBMS, SQL, PostgreSQL, Prisma, MongoDB, Mongoose, Express.js, React.js, Next.js, Node.js, Firebase, JWT, Tailwind CSS, Bootstrap, I'm dedicated to crafting user-friendly and high-performance experiences.
+An enthusiastic learner, passionate Full Stack Developer seeking to build innovative web applications. With a strong foundation in JavaScript, TypeScript, DBMS, SQL, PostgreSQL, Prisma, MongoDB, Mongoose, Express.js, React.js, Next.js, Node.js, Firebase, JWT, Tailwind CSS, Bootstrap, I'm dedicated to crafting user-friendly and high-performance experiences.
 
 Beyond technical prowess, I'm driven by a love for learning and a commitment to delivering exceptional results. I thrive in collaborative environments, working closely with teams to bring creative ideas to life.
 
