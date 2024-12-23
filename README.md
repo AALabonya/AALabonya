@@ -40,7 +40,7 @@ When I'm not immersed in code, you can find me exploring new places or losing my
 <br/>
 
 
-<h3 align="left">📞 Connect me </h3><br/>
+## 📞 Connect me
 
 <p align="left" style="display: flex; gap: 10px; border-radius: 10px; overflow: hidden;">
   <a href="https://www.linkedin.com/in/aalabonya" target="_blank">
