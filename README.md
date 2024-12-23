@@ -55,7 +55,7 @@ When I'm not immersed in code, you can find me exploring new places or losing my
 ##  📝Current Stats
 
 <p align="left">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user==AALabonya&theme=tokyonight" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=AALabonya&theme=tokyonight" />
 </p>
 
 <br/>
