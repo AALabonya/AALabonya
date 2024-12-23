@@ -1,6 +1,26 @@
 <h1 align="center">Hi there 👋, A A Labonya</h1>
 
-![Web Developer](https://i.ibb.co.com/XZrd1wt/Black.jpg)
+![Web Developer](https://i.ibb.co.com/qjMhXDg/Black-and-White-Gradient-Personal-Linked-In-Banner.png)
+
+## 📞 Connect me
+
+<p align="left" style="display: flex; gap: 10px; border-radius: 10px; overflow: hidden;">
+  <a href="https://www.linkedin.com/in/aalabonya" target="_blank">
+    <img height="40" src="https://img.shields.io/badge/LinkedIn-1e293b?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
+  </a>
+  <a href="https://www.facebook.com/labonyamoni" target="_blank">
+    <img height="40" src="https://img.shields.io/badge/Facebook-1e293b?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook">
+  </a>
+  <a href="https://www.instagram.com/labonyamoni/" target="_blank">
+    <img height="40" src="https://img.shields.io/badge/Instagram-1e293b?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram">
+  </a>
+  <a href="https://twitter.com/AALabonya" target="_blank">
+    <img height="40" src="https://img.shields.io/badge/Twitter-1e293b?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter">
+  </a>
+  <a href="mailto:1aklimakter@gmail.com" target="_blank">
+    <img height="40" src="https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email">
+  </a>
+</p>
 <!-- <h3 align="center">MERN stack developer</h3>
 
 <!-- ![Web Developer](https://i.ibb.co/93V06pH/Dallas-Banner.jpg) --> 
@@ -42,32 +62,6 @@ When I'm not immersed in code, you can find me exploring new places or losing my
 <br/>
 <br/>
 
-
-## 📞 Connect me
-
-<p align="left" style="display: flex; gap: 10px; border-radius: 10px; overflow: hidden;">
-  <a href="https://www.linkedin.com/in/aalabonya" target="_blank">
-    <img height="40" src="https://img.shields.io/badge/LinkedIn-1e293b?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
-  </a>
-  <a href="https://www.facebook.com/labonyamoni" target="_blank">
-    <img height="40" src="https://img.shields.io/badge/Facebook-1e293b?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook">
-  </a>
-  <a href="https://www.instagram.com/labonyamoni/" target="_blank">
-    <img height="40" src="https://img.shields.io/badge/Instagram-1e293b?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram">
-  </a>
-  <a href="https://twitter.com/AALabonya" target="_blank">
-    <img height="40" src="https://img.shields.io/badge/Twitter-1e293b?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter">
-  </a>
-  <a href="mailto:1aklimakter@gmail.com" target="_blank">
-    <img height="40" src="https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email">
-  </a>
-</p>
-
-
-
-
-
-<br/>
 
 ##  💻 Technologies that I know
 
