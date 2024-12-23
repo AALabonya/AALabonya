@@ -37,9 +37,7 @@ When I'm not immersed in code, you can find me exploring new places or losing my
 <h3 align="left">📞 Connect me </h3><br/>
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-  <a href="https://www.linkedin.com/in/aalabonya" target="_blank" style="border: 2px solid #0e76a8; border-radius: 30px; padding: 10px 20px; background-color: #0e76a8; color: white; text-decoration: none; font-weight: bold; display: flex; align-items: center; gap: 10px; transition: transform 0.3s ease, background-color 0.3s ease;"
-    onmouseover="this.style.backgroundColor='#333333'; this.style.transform='scale(1.1)';"
-    onmouseout="this.style.backgroundColor='#0e76a8'; this.style.transform='scale(1)';">
+  <a href="https://www.linkedin.com/in/aalabonya" target="_blank" style="border: 2px solid #0e76a8; border-radius: 30px; padding: 10px 20px; background-color: #0e76a8; color: white; text-decoration: none; font-weight: bold; display: inline-flex; align-items: center; gap: 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" />
     LinkedIn
   </a>
