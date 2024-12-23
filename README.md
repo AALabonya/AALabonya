@@ -11,19 +11,11 @@ Beyond technical prowess, I'm driven by a love for learning and a commitment to 
 
 When I'm not immersed in code, you can find me exploring new places or losing myself in the rhythm of music. Let's connect to discuss how my skills can contribute to your next project.
 
-
+<br/>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=AALabonya&label=Profile%20views&color=FF5733&style=flat" alt="AALabonya" /> 
 </p>
 
-
-##  📝Current Stats
-
-<p align="left">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user==AALabonya&theme=tokyonight" />
-</p>
-
-<br/>
 <br/>
 
 ## 🕹️ Current Overview
@@ -35,6 +27,18 @@ When I'm not immersed in code, you can find me exploring new places or losing my
 ](https://ephemeral-marshmallow-e039bd.netlify.app/
 )<br/>
  📫 How to reach me: 1aklimakter@gmail.com 
+
+<br/>
+
+##  📝Current Stats
+
+<p align="left">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user==AALabonya&theme=tokyonight" />
+</p>
+
+<br/>
+<br/>
+
 
 <h3 align="left">📞 Connect me </h3><br/>
 
