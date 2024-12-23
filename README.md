@@ -12,9 +12,10 @@ Beyond technical prowess, I'm driven by a love for learning and a commitment to 
 When I'm not immersed in code, you can find me exploring new places or losing myself in the rhythm of music. Let's connect to discuss how my skills can contribute to your next project.
 
 <br/>
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=AALabonya&label=Profile%20views&color=FF5733&style=flat" alt="AALabonya" /> 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AALabonya&label=Profile%20views&color=FF5733&style=flat&theme=tokyonight" alt="AALabonya" />
 </p>
+
 
 <br/>
 
