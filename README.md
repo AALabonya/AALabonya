@@ -36,30 +36,24 @@ When I'm not immersed in code, you can find me exploring new places or losing my
 
 <h3 align="left">📞 Connect me </h3><br/>
 
-<p align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-  <a href="https://www.linkedin.com/in/aalabonya" target="_blank" style="border: 2px solid #0e76a8; border-radius: 30px; padding: 10px 20px; background-color: #0e76a8; color: white; text-decoration: none; font-weight: bold; display: inline-flex; align-items: center; gap: 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" />
-    LinkedIn
+<p align="center" style="display: flex; gap: 10px; justify-content: center;">
+  <a href="https://www.linkedin.com/in/aalabonya" target="_blank" style="display: inline-block; border-radius: 10px; overflow: hidden;">
+    <img height="40" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.facebook.com/labonyamoni" target="_blank" style="border: 2px solid #1877F2; border-radius: 30px; padding: 10px 20px; background-color: #1877F2; color: white; text-decoration: none; font-weight: bold; display: flex; align-items: center; gap: 10px; transition: transform 0.3s ease, background-color 0.3s ease;"
-    onmouseover="this.style.backgroundColor='#333333'; this.style.transform='scale(1.1)';"
-    onmouseout="this.style.backgroundColor='#1877F2'; this.style.transform='scale(1)';">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="20" width="20" />
-    Facebook
+  <a href="https://www.facebook.com/labonyamoni" target="_blank">
+    <img height="40" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="https://www.instagram.com/labonyamoni/" target="_blank" style="border: 2px solid #E4405F; border-radius: 30px; padding: 10px 20px; background-color: #E4405F; color: white; text-decoration: none; font-weight: bold; display: flex; align-items: center; gap: 10px; transition: transform 0.3s ease, background-color 0.3s ease;"
-    onmouseover="this.style.backgroundColor='#333333'; this.style.transform='scale(1.1)';"
-    onmouseout="this.style.backgroundColor='#E4405F'; this.style.transform='scale(1)';">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="20" width="20" />
-    Instagram
+  <a href="https://www.instagram.com/labonyamoni/" target="_blank">
+    <img height="40" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://twitter.com/AALabonya" target="_blank" style="border: 2px solid #1DA1F2; border-radius: 30px; padding: 10px 20px; background-color: #1DA1F2; color: white; text-decoration: none; font-weight: bold; display: flex; align-items: center; gap: 10px; transition: transform 0.3s ease, background-color 0.3s ease;"
-    onmouseover="this.style.backgroundColor='#333333'; this.style.transform='scale(1.1)';"
-    onmouseout="this.style.backgroundColor='#1DA1F2'; this.style.transform='scale(1)';">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="20" width="20" />
-    Twitter
+  <a href="https://twitter.com/AALabonya" target="_blank">
+    <img height="40" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="mailto:your_email@example.com" target="_blank">
+    <img height="40" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+
 
 
 
