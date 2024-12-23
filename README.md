@@ -38,7 +38,7 @@ When I'm not immersed in code, you can find me exploring new places or losing my
 
 <h3 align="left">📞 Connect me </h3><br/>
 
-<p align="center" style="display: flex; gap: 10px; justify-content: center; border-radius: 10px; overflow: hidden;">
+<p align="left" style="display: flex; gap: 10px; border-radius: 10px; overflow: hidden;">
   <a href="https://www.linkedin.com/in/aalabonya" target="_blank">
     <img height="40" src="https://img.shields.io/badge/LinkedIn-1e293b?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
   </a>
@@ -88,7 +88,7 @@ When I'm not immersed in code, you can find me exploring new places or losing my
 
 
 ## 👀 Explore My GitHub Summary
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AALabonya&theme=tokyonight" alt="Profile details badge"/>
 </p>
 
