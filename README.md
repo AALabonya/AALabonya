@@ -5,7 +5,7 @@
 
 ## About Me 
 
-An enthusiastic learner, Passionate Full Stack Developer seeking to build innovative web applications. With a strong foundation in JavaScript, TypeScript, DBMS, SQL, PostgreSQL, Prisma, Docker, AWS, GraphQL, MongoDB, Mongoose, Express.js, React.js, Next.js, Node.js, Firebase, JWT, Tailwind CSS, Bootstrap, I'm dedicated to crafting user-friendly and high-performance experiences.
+An enthusiastic learner, Passionate Full Stack Developer seeking to build innovative web applications. With a strong foundation in JavaScript, TypeScript, DBMS, SQL, PostgreSQL, Prisma, MongoDB, Mongoose, Express.js, React.js, Next.js, Node.js, Firebase, JWT, Tailwind CSS, Bootstrap, I'm dedicated to crafting user-friendly and high-performance experiences.
 
 Beyond technical prowess, I'm driven by a love for learning and a commitment to delivering exceptional results. I thrive in collaborative environments, working closely with teams to bring creative ideas to life.
 
