@@ -85,16 +85,17 @@ When I'm not immersed in code, you can find me exploring new places or losing my
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AALabonya&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AALabonya&show_icons=true&count_private=true&theme=tokyonight)
-
 
 
 ## 👀 Explore My GitHub Summary
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AALabonya&theme=tokyonight" alt="Profile details badge"/>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AALabonya&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AALabonya&show_icons=true&count_private=true&theme=tokyonight)
+
 
 <br />
 
