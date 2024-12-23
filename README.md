@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋, A A Labonya</h1>
 
-![Web Developer](https://i.ibb.co.com/qjMhXDg/Black-and-White-Gradient-Personal-Linked-In-Banner.png)
+
+![Web Developer](https://i.ibb.co.com/j5wMrrS/github.png)
 
 
 <!-- <h3 align="center">MERN stack developer</h3>
