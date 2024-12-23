@@ -33,19 +33,8 @@ When I'm not immersed in code, you can find me exploring new places or losing my
 ](https://ephemeral-marshmallow-e039bd.netlify.app/
 )<br/>
  📫 How to reach me: 1aklimakter@gmail.com 
-<h3 align="left">📞 Reach me out </h3>
-<br/>
-  <a href="mailto:1aklimakter@gmail.com" target="_blank" style="border: 2px solid #D44638; border-radius: 30px; padding: 10px 20px; background-color: #D44638; color: white; text-decoration: none; font-weight: bold; display: flex; align-items: center; gap: 10px; transition: transform 0.3s ease, background-color 0.3s ease;">
-    <img src="https://img.icons8.com/ios/452/gmail.png" alt="Email" height="20" width="20" />
-    Email
-  </a>
-<h3 align="left">📞 Connect me </h3><br/>
-<!-- <p align="left">
-<a href="https://www.linkedin.com/in/aalabonya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AALabonya" height="30" width="40" /></a>
-<a href="https://www.facebook.com/labonyamoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="AALabonya" height="30" width="40" /></a>
-<a href="https://twitter.com/AALabonya" target="blank"><img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' alt="AALabonya" height="30" width="40" /></a>
 
-<!-- </p> --> 
+<h3 align="left">📞 Connect me </h3><br/>
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
   <a href="https://www.linkedin.com/in/aalabonya" target="_blank" style="border: 2px solid #0e76a8; border-radius: 30px; padding: 10px 20px; background-color: #0e76a8; color: white; text-decoration: none; font-weight: bold; display: flex; align-items: center; gap: 10px; transition: transform 0.3s ease, background-color 0.3s ease;">
