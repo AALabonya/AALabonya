@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, A A Labonya</h1>
 
-![Web Developer](https://i.ibb.co.com/8bSR7mP/fullstack.png)
+![Web Developer](https://i.ibb.co.com/XZrd1wt/Black.jpg)
 <!-- <h3 align="center">MERN stack developer</h3>
 
 <!-- ![Web Developer](https://i.ibb.co/93V06pH/Dallas-Banner.jpg) --> 
